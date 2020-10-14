@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <h1>
-        <HighlightIcon /> Keeper
+        <HighlightIcon /> Keeper 2
       </h1>
     </header>
   );
